@@ -1,2 +1,2 @@
 # amalia-resolusi.txt
-amalia resolusi
+Beginner Programmers
